@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/device-grid",
+    "/device-grid-expanded",
+    "/site-detail"
+  ]
+}
